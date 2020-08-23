@@ -1,6 +1,7 @@
-# SampleRoutingApp
+# Angular Forms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-next.3.
+Deployed on Firebase: [Angular Forms](https://angular-forms-29702.web.app)
 
 ## Development server
 
